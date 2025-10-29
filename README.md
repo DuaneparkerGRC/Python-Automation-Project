@@ -4,6 +4,8 @@ A lightweight desktop app that turns a counselor’s brief session summary into 
 Built as a **personal learning project** to practice Python automation, UI basics, and integrating the OpenAI API end-to-end.
 
 ---
+<img width="150" height="150" alt="Screenshot 2025-10-30 020515" src="https://github.com/user-attachments/assets/5cb7a5ad-15cd-48e2-9d46-5f29e508694e" />
+
 
 ## What it does (at a glance)
 - Takes a **free-text session description** as input.
@@ -11,12 +13,14 @@ Built as a **personal learning project** to practice Python automation, UI basic
 - **Previews** the generated note so the user can make edits.
 - **Exports** the final note (e.g., DOCX/PDF) while keeping the clinic’s formatting style.
 
+<img width="964" height="894" alt="Screenshot 2025-10-30 015937" src="https://github.com/user-attachments/assets/3abd6de4-aaad-4731-8bbd-853e9b44d4b6" />
 ---
 
 ## Why I built it
 I wanted a focused project to **practice Python automation**, experiment with **desktop UI**, and learn how to connect to the **OpenAI API** safely and simply—turning unstructured text into a clean, usable document with minimal friction for the end user.
 
 ---
+<img width="700" height="978" alt="Screenshot 2025-10-30 020147" src="https://github.com/user-attachments/assets/1f5ff5db-2f99-4593-9811-b206cf4e3b71" />
 
 ## Key Highlights
 - **Simple UI**: a clean window to paste notes, generate, and preview results.
