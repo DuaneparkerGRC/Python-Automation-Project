@@ -1,11 +1,11 @@
-# Counseling Progress Notes Automation (Python + OpenAI)
+# Counseling Progress Notes Automation APP (Python + OpenAI) <img width="80" height="80" alt="Screenshot 2025-10-30 020515" src="https://github.com/user-attachments/assets/5cb7a5ad-15cd-48e2-9d46-5f29e508694e" />
+
+
 
 A lightweight desktop app that turns a counselor’s brief session summary into a structured **progress note** (preview → edit → export).  
 Built as a **personal learning project** to practice Python automation, UI basics, and integrating the OpenAI API end-to-end.
 
 ---
-<img width="150" height="150" alt="Screenshot 2025-10-30 020515" src="https://github.com/user-attachments/assets/5cb7a5ad-15cd-48e2-9d46-5f29e508694e" />
-
 
 ## What it does (at a glance)
 - Takes a **free-text session description** as input.
