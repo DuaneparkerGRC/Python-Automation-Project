@@ -1,4 +1,5 @@
-<img width="50" height="50" alt="Screenshot 2025-10-30 020515" src="https://github.com/user-attachments/assets/5cb7a5ad-15cd-48e2-9d46-5f29e508694e" /> Easy Report Maker -by Dulara Paranawidana
+<img width="50" height="50" alt="Screenshot 2025-10-30 020515" src="https://github.com/user-attachments/assets/5cb7a5ad-15cd-48e2-9d46-5f29e508694e" />  Easy Report Maker -by Dulara Paranawidana
+---
 
 # Counseling Progress Notes Automation APP (Python + OpenAI) 
 
