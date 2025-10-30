@@ -43,11 +43,8 @@ I wanted a focused project to **practice Python automation**, experiment with **
 ---
 
 ## Screenshots
-> _(Replace these with your own)_
 
-![App – Input & Generate](screenshots/01_input_generate.png)
-![App – Preview & Edit](screenshots/02_preview_edit.png)
-![App – Exported Note](screenshots/03_exported_note.png)
+<img width="2550" height="1258" alt="Screenshot 2025-10-30 015150" src="https://github.com/user-attachments/assets/85649df7-c56a-42a0-963b-60c98a8fefa3" />
 
 ---
 
