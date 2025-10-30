@@ -47,7 +47,7 @@ I wanted a focused project to **practice Python automation**, experiment with **
 <img width="2550" height="1258" alt="Screenshot 2025-10-30 015150" src="https://github.com/user-attachments/assets/85649df7-c56a-42a0-963b-60c98a8fefa3" />
 
 **Read full code:** [Click here](https://github.com/DuaneparkerGRC/Python-Automation-Project/blob/fd74c98844cee8361f4a8c591bf42b69b6f4223f/app.py)
-https://raw.githubusercontent.com/DuaneparkerGRC/Python-Automation-Project/fd74c98844cee8361f4a8c591bf42b69b6f4223f/app.py
+
 
 ---
 
